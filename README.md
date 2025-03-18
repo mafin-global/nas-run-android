@@ -1,4 +1,4 @@
-# NasRun SDK
+# NasRun Android 연동 가이드
 
 ## 목차
 - [1. 개요](#1-개요)
