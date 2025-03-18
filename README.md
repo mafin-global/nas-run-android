@@ -84,5 +84,7 @@ SDK 호출 후 [연동 확인 홈페이지](https://ow.appang.kr/sdk/connected)�
 ## 5. 예제 프로그램
 예제 프로그램은 `/example` 폴더에 있습니다.
 
+- [Kotlin 예제](example)
+
 ## 🔗 다른 플렛폼 SDK
 - [`iOS SDK`](https://github.com/mafin-global/nas-run-ios)
